@@ -1,4 +1,5 @@
 ## Hello there! 👋
+###  [My Portfolio](https://triffycodes.github.io/Adarsh_Shankar/)<br/>
 
 <!--
 **Triffycodes/TriffyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on DSA and System Design.<br>👯 I’m looking to collaborate on building real world projects.<br>📫 How to reach me:adarshs2097@gmail.com.<br>🤝 I’m looking for help with building my profile.<br>🌱 I’m currently learning MERN stack and Machine Learning.<br>💬 Ask me about Cricket 🏏  Volleyball 🏐  Valorant 🎮.<br>⚡ Fun fact, I love coffee! ☕️<br>📒 Current reading: The Silent Patient.
 
 
