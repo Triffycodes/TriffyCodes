@@ -1,5 +1,5 @@
 ## Hello there! 👋
-###  [My Portfolio](https://triffycodes.github.io/Adarsh_Shankar/)<br/>
+###  [My Portfolio](https://www.adarshshankar.in)<br/>
 
 <!--
 **Triffycodes/TriffyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
