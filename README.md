@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-🔭 I’m currently working on DSA, System Design. <br>👯 I’m looking to collaborate on building real world projects.<br>📫 How to reach me:adarshs2097@gmail.com.<br>🤝 I’m looking for help with building my profile.<br>🌱 I’m currently learning MERN stack and Machine Learning.<br>💬 Ask me about Cricket 🏏  Volleyball 🏐  Valorant 🎮.<br>⚡ Fun fact, I love coffee! ☕️<br>📒 Current reading: The Silent Patient.
+🔭 I’m currently working on K8s, System Design. <br>👯 I’m looking to collaborate on building real world projects.<br>📫 How to reach me:adarshs2097@gmail.com.<br>🤝 I’m looking for help with building my profile.<br>🌱 I’m currently learning AIOps and MLOps.<br>💬 Ask me about Cricket 🏏  Volleyball 🏐  Valorant 🎮.<br>⚡ Fun fact, I love coffee! ☕️<br>📒 Current reading: The The Subtle Art Of Not Giving A F*ck.
 
 
 ## 🌐 Socials:
